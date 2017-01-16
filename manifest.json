@@ -1,0 +1,16 @@
+{
+    "name": "Website Analyst",
+    "version": "1.0",
+    "icons": {
+        "48": "icon.png"
+    },
+    "permissions": [
+        "tabs", "http://*/*", "https://*/*"
+    ],
+    "browser_action": {
+        "default_icon": "logo.png",
+        "default_popup": "popup.html",
+        "default_title": "Website Analyser"
+    },
+    "manifest_version": 2
+}
