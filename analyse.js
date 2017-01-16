@@ -14,7 +14,6 @@ var resultArr = new Array();
 message = message + '该页面有' + count + '张图片,';
 number = 0;
 domains = '';
-console.log(imgArr);
 if(count < 1){
     alert('there is no pic in this page');
 }
